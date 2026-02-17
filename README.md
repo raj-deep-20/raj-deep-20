@@ -2,7 +2,7 @@
   <img src="https://github.com/raj-deep-20/raj-deep-20/blob/main/Untitled%20design.png" width="100%" alt="Profile Banner" />
   <br />
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hello!%20[Welcome to my Profile]&fontSize=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hello!%20Welcome to my Profile&fontSize=60" width="100%" />
 
   ### 🚀 [AIML Enthusiast / Engineering Undergrad]
   **Transforming ideas into scalable code.** 
@@ -30,7 +30,7 @@
 
 ### 🛠️ Tech Stack & Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind css,python,fastapi,django,mysql,postgresql,docker,canva" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,python,fastapi,django,mysql,postgres,docker,canva" />
 </p>
 
 ---
@@ -59,9 +59,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?user=[raj-deep-20]&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" />
-</p>
+
 
 <!--
 **raj-deep-20/raj-deep-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
