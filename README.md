@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAHBliQTgyQ/bHxnPxVnKIvm-lIKsc6fsg/edit?utm_content=DAHBliQTgyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" alt="Profile Banner" />
+  <img src="https://github.com/raj-deep-20/raj-deep-20/blob/main/Untitled%20design.png" width="100%" alt="Profile Banner" />
   <br />
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=I'm%20[YourName]&fontSize=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hello!%20[Welcome to my Profile]&fontSize=60" width="100%" />
 
   ### 🚀 [AIML Enthusiast / Engineering Undergrad]
-  **Transforming ideas into scalable code.** [Portfolio](rajdeep20.vercel.app) • [LinkedIn](https://www.linkedin.com/in/rajdeep-podder-4bb579210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZlBLlnh%2BQiqCd8SAGy7QWg%3D%3D)
+  **Transforming ideas into scalable code.** 
+  </br>
+  [Portfolio](rajdeep20.vercel.app) • [LinkedIn](https://www.linkedin.com/in/rajdeep-podder-4bb579210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZlBLlnh%2BQiqCd8SAGy7QWg%3D%3D)
 
   <br />
 
@@ -36,7 +38,7 @@
 ### 💻 Notable Projects
 | Project | Tech Stack | Status |
 | :--- | :--- | :--- |
-| **[Learova](link)** | `Next.js`, `Prisma`, `Postgresql`, `Fastapi`, `Web Sockets`, `Open CV`, `Scikit-learn`, `Docker`, `HuggingFace` | ✅ Production |
+| **[Learnova](link)** | `Next.js`, `Prisma`, `Postgresql`, `Fastapi`, `Web Sockets`, `Open CV`, `Scikit-learn`, `Docker`, `HuggingFace` | ✅ Production |
 | **[OncoCare](link)** | `Next.js`, `Fastapi`, `Scikit-learn` | 🛠️ In Dev |
 
 ---
