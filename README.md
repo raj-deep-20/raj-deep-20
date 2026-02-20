@@ -4,7 +4,7 @@
 
 
   ### 🚀 AIML Enthusiast | Engineering Undergrad
-  **Transforming ideas into scalable code.** [Portfolio](https://rajdeep20.vercel.app) • [LinkedIn](https://www.linkedin.com/in/rajdeep-podder-4bb579210)
+  **Transforming ideas into scalable code.** <br/> [Portfolio](https://rajdeeppodder21.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/rajdeep-podder-4bb579210)
 
   <br />
 
