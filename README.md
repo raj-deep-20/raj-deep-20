@@ -26,9 +26,10 @@
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,java,python,html,css,react,nextjs,tailwind,fastapi,django,mysql,tensorflow,sklearn,numpy,pandas,huggingface,,postgres,docker,vs-code,ubuntu,canva,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,c++,java,python,html,css,react,nextjs,tailwind,fastapi,django,mysql,postgres,tensorflow,sklearn,numpy,pandas,docker,git,github,vscode,ubuntu&perline=10&theme=auto" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -42,13 +43,30 @@
 
 ---
 
-### 📊 Engineering Metrics
+## 🛠️ Engineering Metrics
+
+<div align="center">
+
+<!-- Stats row -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&icon_color=00ff9d&text_color=ffffff&title_color=00ff9d&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+
+<!-- Streak + trophies -->
+<br><br>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&border_radius=10" width="400" />
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&margin-w=15" />
+
+<!-- Top langs compact -->
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&hide=html,css&langs_count=6" width="400" />
+
+</div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,java,python,html,css,react,nextjs,tailwind,fastapi,django,mysql,tensorflow,sklearn,numpy,pandas,huggingface,postgres,docker,git,github,vscode,ubuntu&perline=10" />
-  </a>
+  <sub>🚀 Commits • PRs • Issues • Stars • Consistency • Languages</sub>
 </p>
+
+
 
 ---
 
