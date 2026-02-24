@@ -3,8 +3,8 @@
   <br />
 
 
-  ### 🚀 AIML Enthusiast | Engineering Undergrad
-  **Transforming ideas into scalable code.** <br/> [Portfolio](https://rajdeeppodder21.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/rajdeep-podder-4bb579210)
+  ### 🚀 GEN AI Enthusiast | AI/ML Undergrad
+  **Transforming ideas into scalable code.** <br/> [*Portfolio*](https://rajdeeppodder21.vercel.app/)   |   [*LinkedIn*](https://www.linkedin.com/in/rajdeep-podder-4bb579210)
 
   <br />
 
@@ -28,7 +28,7 @@
 ### 🛠️ Tech Stack & Ecosystem
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,python,fastapi,django,mysql,postgres,docker,tensorflow,sklearn,huggingface" />
+    <img src="https://skillicons.dev/icons?i=c,c++,java,python,html,css,react,nextjs,tailwind,fastapi,django,mysql,tensorflow,sklearn,numpy,pandas,huggingface,,postgres,docker,vs-code,ubuntu,canva,git,github" />
   </a>
 </p>
 
@@ -45,7 +45,9 @@
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-deep-20&theme=transparent&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,java,python,html,css,react,nextjs,tailwind,fastapi,django,mysql,tensorflow,sklearn,numpy,pandas,huggingface,postgres,docker,git,github,vscode,ubuntu&perline=10" />
+  </a>
 </p>
 
 ---
