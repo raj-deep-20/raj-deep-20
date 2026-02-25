@@ -4,7 +4,7 @@
 
   ### 🚀 GEN AI Enthusiast | AI/ML Undergrad  
   **Transforming ideas into scalable code.**  
-  [🌐 Portfolio](https://rajdeeppodder21.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/rajdeep-podder-4bb579210)
+  [🌐 Portfolio](https://rajdeeppodder21.vercel.app/)  |  [💼 LinkedIn](https://www.linkedin.com/in/rajdeep-podder-4bb579210)
   <br><br>
 
   <table>
@@ -29,16 +29,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,react,nextjs,tailwind,django,mysql,postgres,numpy,pandas,docker,git,github,vscode,ubuntu&perline=9" 
+      src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,react,nextjs,tailwind,django,mysql,postgres,docker,git,github,vscode,ubuntu&perline=9" 
       alt="Tech Stack" 
       loading="lazy"
     />
   </a>
-</p>
-
-<p align="center">
-  <sub>Core Languages | Web Dev | Backend | Databases | ML/DL | MLOps & Tools</sub><br>
-  <small>(Also experienced with: TensorFlow, Scikit-learn, FastAPI)</small>
 </p>
 
 ---
@@ -56,15 +51,6 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=raj-deep-20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats" 
-    width="420" 
-    loading="lazy"
-  />
-  <br><br>
-
   <!-- Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=raj-deep-20&theme=tokyonight&hide_border=true&border_radius=10" 
@@ -74,27 +60,7 @@
   />
   <br><br>
 
-  <!-- Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=raj-deep-20&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies" 
-    loading="lazy"
-  />
-  <br><br>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-deep-20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" 
-    alt="Top Languages" 
-    width="420" 
-    loading="lazy"
-  />
-
 </div>
-
-<p align="center">
-  <sub>🚀 Commits | PRs | Issues | Stars | Consistency | Languages</sub>
-</p>
 
 ---
 
