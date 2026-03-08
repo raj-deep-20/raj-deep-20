@@ -26,19 +26,19 @@
 ```python
 class AIMLStudent:
     def __init__(self):
-        self.name         = "Rajdeep"
+        self.name         = "Rajdeep Podder"
         self.university   = "Techno Main Salt Lake"
         self.degree       = "B.Tech in CSE (AI/ML) (2023–2027)"
         self.interests    = ["Deep Learning", "Machine Learning",
                              "NLP", "Generative AI", "Reinforcement Learning"]
         self.currently    = "Building cool things with neural networks 🧠"
         self.learning     = ["Optimized Models", "MLOps"]
-        self.fun_fact     = "I debug with print statements and I'm proud of it 😄"
+        self.fun_fact     = "I still type printf while coding in python. 😄"
 
     def say_hi(self):
         print("Thanks for wasting some time here! Let's connect and collaborate 🚀")
 
-me = AIMLStudent()
+me = Coder()
 me.say_hi()
 ```
 
@@ -59,10 +59,7 @@ me.say_hi()
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-0f0c29?style=for-the-badge&logo=keras&logoColor=D00000)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0f0c29?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![OpenCV](https://img.shields.io/badge/OpenCV-0f0c29?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![Django](https://img.shields.io/badge/Django-0f0c29?style=for-the-badge&logo=django&logoColor=44B78B)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=009688)
 
@@ -77,28 +74,12 @@ me.say_hi()
 
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0f0c29?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0f0c29?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Google Colab](https://img.shields.io/badge/Colab-0f0c29?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 
 </div>
 
----
-
-## 🔬 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/raj-deep-20/sih">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=raj-deep-20&repo=sih&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" />
-</a>
-&nbsp;
-<a href="https://github.com/raj-deep-20/OncoCare">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=raj-deep-20&repo=OncoCare&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" />
-</a>
-
-</div>
 
 ---
 
@@ -160,5 +141,5 @@ me.say_hi()
 
 <div align="center">
   <h3>Thanks for visiting my profile!</h3>
-  <p>If you like my work, consider following me and checking out my repositories.</p>
+  <p>Lets code and build an easy future.</p>
 </div>
