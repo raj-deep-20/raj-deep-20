@@ -87,11 +87,11 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/raj-deep-20/sih">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-deep-20&repo=sih&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=raj-deep-20&repo=sih&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" />
 </a>
 &nbsp;
 <a href="https://github.com/raj-deep-20/OncoCare">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-deep-20&repo=OncoCare&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=raj-deep-20&repo=OncoCare&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" />
 </a>
 
 </div>
@@ -102,23 +102,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raj-deep-20&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&hide_border=false&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raj-deep-20&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&hide_border=false&rank_icon=github" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-deep-20&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raj-deep-20&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&langs_count=8" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=raj-deep-20&theme=tokyonight&border=7c3aed&background=0f0c29&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raj-deep-20&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://streak-stats.demolab.com?user=raj-deep-20&theme=tokyonight&border=7c3aed&background=0f0c29&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 </div>
 
