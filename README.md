@@ -51,6 +51,7 @@ me.say_hi()
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=336791)
 
@@ -62,6 +63,8 @@ me.say_hi()
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0f0c29?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0f0c29?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Django](https://img.shields.io/badge/Django-0f0c29?style=for-the-badge&logo=django&logoColor=44B78B)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 **Data & Visualization**
 
@@ -75,6 +78,7 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0f0c29?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0f0c29?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Google Colab](https://img.shields.io/badge/Colab-0f0c29?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 
