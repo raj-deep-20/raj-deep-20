@@ -117,7 +117,7 @@ me.say_hi()
 |------|--------|
 | 🤖 **Generative AI** | LLMs, Prompt Engineering, RAG, Fine-tuning |
 | 👁️ **Deep Learning** | CNNs, ANNs, RNNs |
-| 📝 **NLP** | Transformers, Sentiment Analysis, Named Entity Recognition |
+| 📝 **NLP** | Transformers, Sentiment Analysis |
 | ⚙️ **MLOps** | Experiment Tracking, Model Deployment, CI/CD for ML |
 
 </div>
@@ -135,6 +135,10 @@ me.say_hi()
 <a href="mailto:iamrajdeep2005@example.com">
   <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
+&nbsp;
+  <a href="https://rajdeeppodder21.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
+  </a>
 </div>
 
 ---
