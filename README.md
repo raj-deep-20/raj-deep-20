@@ -60,7 +60,6 @@ me.say_hi()
 ![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Django](https://img.shields.io/badge/Django-0f0c29?style=for-the-badge&logo=django&logoColor=44B78B)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 **Data & Visualization**
@@ -136,9 +135,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 &nbsp;
-  <a href="https://rajdeeppodder21.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
-  </a>
 </div>
 
 ---
